@@ -1,7 +1,7 @@
-- 👋 Hi, I’m hkabir2k1
+- 👋 Hi, I’m Hiba
 - 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning Algorithms and Computer architecture
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning Algorithms and Computer architecture.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: hkabir2k1@gmail.com
 
 <!---
